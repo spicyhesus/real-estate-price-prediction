@@ -1,0 +1,7 @@
+Flask==1.0.2
+numpy==1.16.2
+scikit-learn==0.20.3
+pip==22.3.1
+wheel==0.37.1
+openssl==1.1.1s
+setuptools==65.5.0
